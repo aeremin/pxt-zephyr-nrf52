@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "nrf52_zephyr",
+    "name": "nrf52 + Zephyr",
+    "title": "nrf52 + Zephyr + pxt attempt",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
